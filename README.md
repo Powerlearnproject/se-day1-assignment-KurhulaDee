@@ -74,6 +74,7 @@ ATTTEPTANCE TESTING
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+prompt enginnering is the process of designing and refining the inputs( or prompts) given to AI models, particularly language models like ChatGPT, to optimize their responses.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
